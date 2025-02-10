@@ -1,0 +1,115 @@
+keyword_to_skills = {
+    # Machine Learning
+    "machine learning": "Machine Learning",
+    "ml": "Machine Learning",
+    "predictive modeling": "Machine Learning",
+    "training models": "Machine Learning",
+    "algorithm development": "Machine Learning",
+	"forcasting": "Machine Learning",
+"classification": "Machine Learning",
+
+    # Deep Learning
+    "deep learning": "Deep Learning",
+    "neural networks": "Deep Learning",
+    "cnn": "Deep Learning",
+    "rnn": "Deep Learning",
+    "transformers": "Deep Learning",
+
+    # NLP
+    "nlp": "NLP",
+    "natural language processing": "NLP",
+    "chatbot": "NLP",
+    "text analysis": "NLP",
+    "voice assistant": "NLP",
+    "sentiment analysis": "NLP",
+    "language models": "NLP",
+
+    # Computer Vision
+    "computer vision": "Computer Vision",
+    "image recognition": "Computer Vision",
+    "object detection": "Computer Vision",
+    "image processing": "Computer Vision",
+    "video analytics": "Computer Vision",
+"facial recognition": "Computer Vision",
+
+    # Data Engineering
+    "data engineering": "Data Engineering",
+    "data pipelines": "Data Engineering",
+    "etl": "Data Engineering",
+    "big data tools": "Data Engineering",
+    "data processing": "Data Engineering",
+"data warehouse": "Data Engineering",
+
+    # Data Analysis
+    "data analysis": "Data Analysis",
+    "data visualization": "Data Analysis",
+    "exploratory analysis": "Data Analysis",
+    "descriptive statistics": "Data Analysis",
+    "business intelligence": "Data Analysis",
+"dashboards": "Data Analysis",
+"reporting": "Data Analysis",
+
+    # Cloud Computing
+    "cloud computing": "Cloud Computing",
+    "aws": "Cloud Computing",
+    "azure": "Cloud Computing",
+    "gcp": "Cloud Computing",
+"google cloud platform": "Cloud Computing",
+    "serverless computing": "Cloud Computing",
+"cloud storage": "Cloud Computing",
+"cloud security": "Cloud Computing",
+
+    # DevOps
+    "devops": "DevOps",
+    "ci/cd": "DevOps",
+    "infrastructure automation": "DevOps",
+    "docker": "DevOps",
+    "kubernetes": "DevOps",
+"deployment pipelines": "DevOps",
+"automation": "DevOps",
+
+    # Cybersecurity
+    "cybersecurity": "Cybersecurity",
+    "information security": "Cybersecurity",
+    "penetration testing": "Cybersecurity",
+    "firewall management": "Cybersecurity",
+    "network security": "Cybersecurity",
+
+    # Blockchain
+    "blockchain": "Blockchain",
+    "crypto": "Blockchain",
+    "decentralized systems": "Blockchain",
+    "smart contracts": "Blockchain",
+    "distributed ledger": "Blockchain",
+
+    # Big Data
+    "big data": "Big Data",
+    "hadoop": "Big Data",
+    "spark": "Big Data",
+    "large-scale data": "Big Data",
+    "data lakes": "Big Data",
+
+    # Software Development
+    "software": "Software Development",
+    "application": "Software Development",
+    "full-stack": "Software Development",
+    "backend": "Software Development",
+    "frontend": "Software Development",
+
+    # Project Management
+    "project management": "Project Management",
+    "agile": "Project Management",
+    "scrum": "Project Management",
+    "kanban": "Project Management",
+    "team coordination": "Project Management",
+"resource allocation": "Project Management",
+"risk management": "Project Management",
+
+    # Business Analysis
+    "business analysis": "Business Analysis",
+    "requirements gathering": "Business Analysis",
+    "stakeholder management": "Business Analysis",
+    "business process modeling": "Business Analysis",
+    "gap analysis": "Business Analysis"
+}
+ 
