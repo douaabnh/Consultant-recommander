@@ -1,0 +1,151 @@
+Assignment_ID,Client_Name,Project_Description,Consultant_Name,Success_Rating,Feedback_Comments,Date
+1,Client_64,AI-based personalized learning platform,Consultant_89,4.32,Showed strong dedication and problem-solving abilities under pressure.,2023-08-27
+2,Client_84,Fraud detection using machine learning,Consultant_65,3.57,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-02-02
+3,Client_19,Cloud deployment for financial applications,Consultant_94,4.21,Needs to work on proactive communication to avoid delays in response.,2023-09-17
+4,Client_59,Sentiment analysis using NLP,Consultant_52,4.24,Displayed remarkable adaptability to changing requirements.,2023-03-24
+5,Client_61,Fraud detection using machine learning,Consultant_27,4.91,"Faced challenges in meeting deadlines, but the final outcome was satisfactory.",2023-05-17
+6,Client_54,Customer segmentation and targeting,Consultant_68,4.7,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-03-29
+7,Client_11,Automating data pipelines with cloud solutions,Consultant_12,4.45,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-11-03
+8,Client_62,Recommendation engine for e-commerce platform,Consultant_10,4.5,Displayed remarkable adaptability to changing requirements.,2023-12-26
+9,Client_19,Fraud detection using machine learning,Consultant_39,4.64,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-12-14
+10,Client_58,Customer segmentation and targeting,Consultant_62,4.86,Handled complex tasks effectively but struggled with team coordination at times.,2023-07-28
+11,Client_58,Time-series forecasting for sales,Consultant_63,4.28,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-08-18
+12,Client_109,Recommendation engine for e-commerce platform,Consultant_3,4.03,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-10-13
+13,Client_40,AI-based personalized learning platform,Consultant_92,4.1,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-12-12
+14,Client_11,AI-based personalized learning platform,Consultant_12,4.71,Displayed remarkable adaptability to changing requirements.,2023-05-14
+15,Client_31,Sentiment analysis using NLP,Consultant_89,3.78,Impressive technical knowledge and ability to troubleshoot effectively.,2023-05-22
+16,Client_114,Sentiment analysis using NLP,Consultant_31,3.84,Handled complex tasks effectively but struggled with team coordination at times.,2023-10-20
+17,Client_32,Automating data pipelines with cloud solutions,Consultant_15,4.58,Provided clear and concise updates throughout the project lifecycle.,2023-10-04
+18,Client_18,Customer segmentation and targeting,Consultant_10,4.7,Showed strong dedication and problem-solving abilities under pressure.,2023-09-23
+19,Client_11,Healthcare data analysis and visualization,Consultant_76,5.0,Impressive technical knowledge and ability to troubleshoot effectively.,2023-06-30
+20,Client_8,Fraud detection using machine learning,Consultant_88,4.98,Needs to work on proactive communication to avoid delays in response.,2023-08-06
+21,Client_22,AI-based personalized learning platform,Consultant_1,4.48,"Faced challenges in meeting deadlines, but the final outcome was satisfactory.",2023-05-31
+22,Client_32,AI-based personalized learning platform,Consultant_90,4.35,Provided clear and concise updates throughout the project lifecycle.,2023-05-11
+23,Client_108,Time-series forecasting for sales,Consultant_24,3.83,Delivered exceptional results and added value beyond the project scope.,2023-09-14
+24,Client_33,AI-based personalized learning platform,Consultant_78,4.36,Provided clear and concise updates throughout the project lifecycle.,2023-03-03
+25,Client_41,Healthcare data analysis and visualization,Consultant_42,4.55,Displayed remarkable adaptability to changing requirements.,2023-07-06
+26,Client_32,AI-based personalized learning platform,Consultant_84,4.65,Delivered exceptional results and added value beyond the project scope.,2023-08-14
+27,Client_36,Sentiment analysis using NLP,Consultant_55,3.84,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-12-14
+28,Client_89,AI-based personalized learning platform,Consultant_75,4.01,Provided clear and concise updates throughout the project lifecycle.,2023-02-09
+29,Client_95,Time-series forecasting for sales,Consultant_49,4.78,Impressive technical knowledge and ability to troubleshoot effectively.,2023-03-24
+30,Client_37,Automating data pipelines with cloud solutions,Consultant_40,4.68,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-09-22
+31,Client_84,Recommendation engine for e-commerce platform,Consultant_83,4.0,"Faced challenges in meeting deadlines, but the final outcome was satisfactory.",2023-12-02
+32,Client_26,AI-based personalized learning platform,Consultant_92,3.84,Needs to work on proactive communication to avoid delays in response.,2023-01-05
+33,Client_104,Automating data pipelines with cloud solutions,Consultant_52,4.59,Provided clear and concise updates throughout the project lifecycle.,2023-08-30
+34,Client_59,Predictive maintenance for manufacturing,Consultant_38,4.08,Impressive technical knowledge and ability to troubleshoot effectively.,2023-09-12
+35,Client_102,Sentiment analysis using NLP,Consultant_33,3.57,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-06-28
+36,Client_102,Cloud deployment for financial applications,Consultant_10,4.29,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-12-06
+37,Client_87,AI-based personalized learning platform,Consultant_96,4.82,Needs to work on proactive communication to avoid delays in response.,2023-06-21
+38,Client_41,Cloud deployment for financial applications,Consultant_75,4.94,Needs to work on proactive communication to avoid delays in response.,2023-10-30
+39,Client_84,Fraud detection using machine learning,Consultant_50,4.12,Delivered exceptional results and added value beyond the project scope.,2023-10-12
+40,Client_90,Fraud detection using machine learning,Consultant_4,3.58,Displayed remarkable adaptability to changing requirements.,2023-08-31
+41,Client_90,Customer segmentation and targeting,Consultant_10,4.77,Impressive technical knowledge and ability to troubleshoot effectively.,2023-07-31
+42,Client_109,Automating data pipelines with cloud solutions,Consultant_33,3.97,Provided clear and concise updates throughout the project lifecycle.,2023-12-28
+43,Client_56,Sentiment analysis using NLP,Consultant_61,3.58,Showed strong dedication and problem-solving abilities under pressure.,2023-12-10
+44,Client_27,Time-series forecasting for sales,Consultant_90,4.44,Impressive technical knowledge and ability to troubleshoot effectively.,2023-12-11
+45,Client_99,Cloud deployment for financial applications,Consultant_52,3.85,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-02-23
+46,Client_36,Automating data pipelines with cloud solutions,Consultant_7,3.65,Displayed remarkable adaptability to changing requirements.,2023-08-25
+47,Client_6,Cloud deployment for financial applications,Consultant_33,4.94,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-08-05
+48,Client_45,Sentiment analysis using NLP,Consultant_83,4.28,Delivered exceptional results and added value beyond the project scope.,2023-04-07
+49,Client_91,Cloud deployment for financial applications,Consultant_61,4.84,Impressive technical knowledge and ability to troubleshoot effectively.,2023-04-03
+50,Client_34,Cloud deployment for financial applications,Consultant_97,3.83,"Faced challenges in meeting deadlines, but the final outcome was satisfactory.",2023-12-30
+51,Client_49,Automating data pipelines with cloud solutions,Consultant_24,3.65,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-12-04
+52,Client_53,Fraud detection using machine learning,Consultant_59,4.89,Provided clear and concise updates throughout the project lifecycle.,2023-12-23
+53,Client_28,Predictive maintenance for manufacturing,Consultant_59,4.96,Displayed remarkable adaptability to changing requirements.,2023-09-23
+54,Client_102,Automating data pipelines with cloud solutions,Consultant_15,4.5,Handled complex tasks effectively but struggled with team coordination at times.,2023-06-06
+55,Client_110,Sentiment analysis using NLP,Consultant_93,4.75,Displayed remarkable adaptability to changing requirements.,2023-04-19
+56,Client_33,Customer segmentation and targeting,Consultant_83,3.64,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-07-28
+57,Client_96,Customer segmentation and targeting,Consultant_57,4.52,Displayed remarkable adaptability to changing requirements.,2023-04-10
+58,Client_17,Recommendation engine for e-commerce platform,Consultant_82,3.94,Displayed remarkable adaptability to changing requirements.,2023-06-13
+59,Client_70,Fraud detection using machine learning,Consultant_21,3.57,Handled complex tasks effectively but struggled with team coordination at times.,2023-12-23
+60,Client_86,AI-based personalized learning platform,Consultant_47,4.6,"Faced challenges in meeting deadlines, but the final outcome was satisfactory.",2023-08-19
+61,Client_106,AI-based personalized learning platform,Consultant_76,4.17,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-12-31
+62,Client_28,Fraud detection using machine learning,Consultant_64,3.94,Provided clear and concise updates throughout the project lifecycle.,2023-10-31
+63,Client_4,Sentiment analysis using NLP,Consultant_31,4.18,Impressive technical knowledge and ability to troubleshoot effectively.,2023-09-10
+64,Client_95,Time-series forecasting for sales,Consultant_46,4.95,Provided clear and concise updates throughout the project lifecycle.,2023-08-31
+65,Client_106,Time-series forecasting for sales,Consultant_51,3.73,Showed strong dedication and problem-solving abilities under pressure.,2023-06-03
+66,Client_29,Customer segmentation and targeting,Consultant_6,4.67,Provided clear and concise updates throughout the project lifecycle.,2023-03-10
+67,Client_93,Healthcare data analysis and visualization,Consultant_58,3.83,Impressive technical knowledge and ability to troubleshoot effectively.,2023-10-28
+68,Client_109,Healthcare data analysis and visualization,Consultant_16,4.54,Displayed remarkable adaptability to changing requirements.,2023-11-21
+69,Client_62,Time-series forecasting for sales,Consultant_78,3.85,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-12-03
+70,Client_95,Automating data pipelines with cloud solutions,Consultant_76,4.07,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-11-14
+71,Client_39,Sentiment analysis using NLP,Consultant_55,4.44,Provided clear and concise updates throughout the project lifecycle.,2023-11-08
+72,Client_52,Automating data pipelines with cloud solutions,Consultant_98,4.14,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-12-24
+73,Client_21,Predictive maintenance for manufacturing,Consultant_45,4.21,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-10-06
+74,Client_38,Fraud detection using machine learning,Consultant_39,4.15,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-03-02
+75,Client_14,Sentiment analysis using NLP,Consultant_47,4.11,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-08-24
+76,Client_50,Fraud detection using machine learning,Consultant_41,3.9,Impressive technical knowledge and ability to troubleshoot effectively.,2023-01-22
+77,Client_100,Sentiment analysis using NLP,Consultant_62,3.63,Handled complex tasks effectively but struggled with team coordination at times.,2023-05-29
+78,Client_46,Healthcare data analysis and visualization,Consultant_72,4.57,Impressive technical knowledge and ability to troubleshoot effectively.,2023-09-25
+79,Client_100,AI-based personalized learning platform,Consultant_66,3.66,Displayed remarkable adaptability to changing requirements.,2023-12-29
+80,Client_27,Healthcare data analysis and visualization,Consultant_19,3.61,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-01-25
+81,Client_43,AI-based personalized learning platform,Consultant_63,4.29,Showed strong dedication and problem-solving abilities under pressure.,2023-08-08
+82,Client_107,Recommendation engine for e-commerce platform,Consultant_16,3.78,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-07-31
+83,Client_63,Cloud deployment for financial applications,Consultant_81,4.02,Provided clear and concise updates throughout the project lifecycle.,2023-06-22
+84,Client_85,Predictive maintenance for manufacturing,Consultant_37,3.92,"Faced challenges in meeting deadlines, but the final outcome was satisfactory.",2023-01-29
+85,Client_69,AI-based personalized learning platform,Consultant_86,3.99,Showed strong dedication and problem-solving abilities under pressure.,2023-11-22
+86,Client_55,AI-based personalized learning platform,Consultant_46,3.63,Impressive technical knowledge and ability to troubleshoot effectively.,2023-08-11
+87,Client_84,AI-based personalized learning platform,Consultant_21,4.87,Needs to work on proactive communication to avoid delays in response.,2023-09-07
+88,Client_96,Automating data pipelines with cloud solutions,Consultant_9,4.22,Impressive technical knowledge and ability to troubleshoot effectively.,2024-01-01
+89,Client_63,Time-series forecasting for sales,Consultant_38,4.58,Impressive technical knowledge and ability to troubleshoot effectively.,2023-12-16
+90,Client_57,Sentiment analysis using NLP,Consultant_14,4.06,Handled complex tasks effectively but struggled with team coordination at times.,2023-05-30
+91,Client_72,Recommendation engine for e-commerce platform,Consultant_64,3.63,Showed strong dedication and problem-solving abilities under pressure.,2023-01-19
+92,Client_56,Recommendation engine for e-commerce platform,Consultant_25,4.59,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-08-09
+93,Client_10,Predictive maintenance for manufacturing,Consultant_100,4.28,Needs to work on proactive communication to avoid delays in response.,2023-04-07
+94,Client_100,Cloud deployment for financial applications,Consultant_26,4.36,Needs to work on proactive communication to avoid delays in response.,2023-05-26
+95,Client_54,Customer segmentation and targeting,Consultant_60,3.52,Displayed remarkable adaptability to changing requirements.,2023-11-12
+96,Client_30,Sentiment analysis using NLP,Consultant_77,3.77,Handled complex tasks effectively but struggled with team coordination at times.,2023-03-10
+97,Client_61,Healthcare data analysis and visualization,Consultant_22,4.26,Delivered exceptional results and added value beyond the project scope.,2023-08-27
+98,Client_84,Customer segmentation and targeting,Consultant_15,3.76,Delivered exceptional results and added value beyond the project scope.,2023-01-08
+99,Client_64,Automating data pipelines with cloud solutions,Consultant_31,4.14,Displayed remarkable adaptability to changing requirements.,2023-06-05
+100,Client_79,Cloud deployment for financial applications,Consultant_9,3.58,Impressive technical knowledge and ability to troubleshoot effectively.,2023-03-21
+101,Client_37,Predictive maintenance for manufacturing,Consultant_40,4.63,Needs to work on proactive communication to avoid delays in response.,2023-03-07
+102,Client_71,Customer segmentation and targeting,Consultant_38,3.54,Delivered exceptional results and added value beyond the project scope.,2023-09-28
+103,Client_105,Fraud detection using machine learning,Consultant_57,4.42,Displayed remarkable adaptability to changing requirements.,2023-08-13
+104,Client_97,Time-series forecasting for sales,Consultant_30,4.91,Handled complex tasks effectively but struggled with team coordination at times.,2023-08-05
+105,Client_18,Recommendation engine for e-commerce platform,Consultant_56,3.93,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-07-25
+106,Client_14,Time-series forecasting for sales,Consultant_15,3.82,Showed strong dedication and problem-solving abilities under pressure.,2023-06-14
+107,Client_21,Fraud detection using machine learning,Consultant_55,3.79,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-01-19
+108,Client_1,Healthcare data analysis and visualization,Consultant_64,4.21,Needs to work on proactive communication to avoid delays in response.,2023-12-18
+109,Client_20,Healthcare data analysis and visualization,Consultant_68,4.58,Handled complex tasks effectively but struggled with team coordination at times.,2023-12-01
+110,Client_44,Recommendation engine for e-commerce platform,Consultant_39,4.09,Displayed remarkable adaptability to changing requirements.,2023-08-24
+111,Client_16,Predictive maintenance for manufacturing,Consultant_71,3.69,Needs to work on proactive communication to avoid delays in response.,2023-01-01
+112,Client_101,Recommendation engine for e-commerce platform,Consultant_77,4.6,Handled complex tasks effectively but struggled with team coordination at times.,2023-01-04
+113,Client_10,Predictive maintenance for manufacturing,Consultant_61,3.64,Impressive technical knowledge and ability to troubleshoot effectively.,2023-03-01
+114,Client_83,Time-series forecasting for sales,Consultant_7,4.14,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-01-28
+115,Client_69,Fraud detection using machine learning,Consultant_96,3.62,Needs to work on proactive communication to avoid delays in response.,2023-06-03
+116,Client_62,Cloud deployment for financial applications,Consultant_65,4.35,Showed strong dedication and problem-solving abilities under pressure.,2023-12-29
+117,Client_101,Fraud detection using machine learning,Consultant_29,4.5,Handled complex tasks effectively but struggled with team coordination at times.,2023-10-07
+118,Client_118,Healthcare data analysis and visualization,Consultant_98,4.4,Provided clear and concise updates throughout the project lifecycle.,2023-04-06
+119,Client_61,Automating data pipelines with cloud solutions,Consultant_79,3.6,Displayed remarkable adaptability to changing requirements.,2023-08-20
+120,Client_76,Healthcare data analysis and visualization,Consultant_19,4.01,Displayed remarkable adaptability to changing requirements.,2023-01-28
+121,Client_82,AI-based personalized learning platform,Consultant_94,4.15,Delivered exceptional results and added value beyond the project scope.,2023-09-08
+122,Client_64,Time-series forecasting for sales,Consultant_18,4.73,Impressive technical knowledge and ability to troubleshoot effectively.,2023-05-28
+123,Client_37,Customer segmentation and targeting,Consultant_35,4.35,Provided clear and concise updates throughout the project lifecycle.,2023-06-18
+124,Client_108,Recommendation engine for e-commerce platform,Consultant_38,4.04,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-07-14
+125,Client_104,Recommendation engine for e-commerce platform,Consultant_82,4.15,Delivered exceptional results and added value beyond the project scope.,2023-06-07
+126,Client_57,Time-series forecasting for sales,Consultant_46,4.33,Needs to work on proactive communication to avoid delays in response.,2023-07-19
+127,Client_25,Customer segmentation and targeting,Consultant_41,4.16,"Faced challenges in meeting deadlines, but the final outcome was satisfactory.",2023-10-27
+128,Client_56,Predictive maintenance for manufacturing,Consultant_88,3.96,Provided clear and concise updates throughout the project lifecycle.,2023-06-18
+129,Client_95,Recommendation engine for e-commerce platform,Consultant_36,3.69,Impressive technical knowledge and ability to troubleshoot effectively.,2023-02-03
+130,Client_56,Sentiment analysis using NLP,Consultant_63,3.51,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-01-11
+131,Client_74,Predictive maintenance for manufacturing,Consultant_8,4.02,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-02-28
+132,Client_72,Sentiment analysis using NLP,Consultant_21,4.58,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-04-24
+133,Client_31,Time-series forecasting for sales,Consultant_4,3.51,Delivered exceptional results and added value beyond the project scope.,2023-03-05
+134,Client_3,Customer segmentation and targeting,Consultant_5,4.39,"Required additional support to complete some tasks, but showed eagerness to learn.",2023-12-05
+135,Client_25,Time-series forecasting for sales,Consultant_75,4.45,Showed strong dedication and problem-solving abilities under pressure.,2023-11-19
+136,Client_65,Cloud deployment for financial applications,Consultant_49,3.93,"Faced challenges in meeting deadlines, but the final outcome was satisfactory.",2023-06-15
+137,Client_17,Cloud deployment for financial applications,Consultant_19,4.55,Handled complex tasks effectively but struggled with team coordination at times.,2023-02-04
+138,Client_77,Healthcare data analysis and visualization,Consultant_89,3.61,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-04-23
+139,Client_88,Recommendation engine for e-commerce platform,Consultant_78,3.92,Provided clear and concise updates throughout the project lifecycle.,2023-10-03
+140,Client_36,Fraud detection using machine learning,Consultant_58,4.61,Showed strong dedication and problem-solving abilities under pressure.,2023-07-29
+141,Client_4,Sentiment analysis using NLP,Consultant_27,3.79,"Faced challenges in meeting deadlines, but the final outcome was satisfactory.",2023-01-27
+142,Client_106,Customer segmentation and targeting,Consultant_55,4.72,Impressive technical knowledge and ability to troubleshoot effectively.,2023-12-31
+143,Client_11,Healthcare data analysis and visualization,Consultant_52,4.64,"Faced challenges in meeting deadlines, but the final outcome was satisfactory.",2023-12-31
+144,Client_100,Time-series forecasting for sales,Consultant_25,4.92,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-09-18
+145,Client_26,Healthcare data analysis and visualization,Consultant_22,4.93,Provided clear and concise updates throughout the project lifecycle.,2023-01-27
+146,Client_36,Automating data pipelines with cloud solutions,Consultant_43,4.79,Delivered exceptional results and added value beyond the project scope.,2023-09-14
+147,Client_120,Fraud detection using machine learning,Consultant_10,3.97,Displayed remarkable adaptability to changing requirements.,2023-09-22
+148,Client_71,Automating data pipelines with cloud solutions,Consultant_7,3.92,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-03-27
+149,Client_88,Cloud deployment for financial applications,Consultant_66,4.41,Could improve on prioritizing tasks to ensure smoother project delivery.,2023-06-04
+150,Client_57,Customer segmentation and targeting,Consultant_35,4.89,"Faced challenges in meeting deadlines, but the final outcome was satisfactory.",2023-07-01
