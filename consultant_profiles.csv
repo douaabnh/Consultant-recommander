@@ -1,0 +1,101 @@
+Name,Skills,Languages,Industry_Expertise,Years_of_Experience,Phone_Number
+Consultant_1,"Software Development, Blockchain","English, Arabic, German",Education,8,+213626497067
+Consultant_2,"Blockchain, Data Engineering, Project Management, DevOps","German, Spanish",Finance,8,+213516354563
+Consultant_3,"Computer Vision, Machine Learning, Data Engineering, NLP, Cloud Computing",English,Manufacturing,6,+213594877652
+Consultant_4,"Project Management, Data Analysis, Deep Learning",German,"Finance, Education",10,+213545258370
+Consultant_5,"Project Management, NLP, Business Analysis, Blockchain, DevOps","German, Arabic","Technology, Manufacturing",7,+213597173249
+Consultant_6,"Big Data, Machine Learning, Data Analysis","Arabic, German, French",Healthcare,9,+213550635764
+Consultant_7,"Computer Vision, Deep Learning, Project Management, NLP","English, Spanish","Manufacturing, Retail",10,+213699756499
+Consultant_8,"Deep Learning, Blockchain",German,Manufacturing,10,+213614429673
+Consultant_9,"Data Engineering, Data Analysis","Arabic, French","Manufacturing, Retail",4,+213683498546
+Consultant_10,"Deep Learning, Business Analysis, Cybersecurity, Data Engineering, Software Development","Spanish, Arabic",Healthcare,5,+213743193441
+Consultant_11,"Big Data, Business Analysis, Computer Vision, Cybersecurity",Spanish,"Retail, Technology",6,+213672117314
+Consultant_12,"Computer Vision, Data Engineering","English, Spanish",Retail,4,+213550921877
+Consultant_13,"Deep Learning, Cybersecurity, Software Development, NLP, Data Analysis",French,Healthcare,9,+213515713665
+Consultant_14,"Computer Vision, Blockchain, Data Engineering, Business Analysis","Arabic, French, German","Education, Finance",3,+213645969468
+Consultant_15,"Cybersecurity, Data Engineering, Software Development",Arabic,Education,2,+213640855873
+Consultant_16,"Data Analysis, Blockchain","Arabic, German, English",Retail,7,+213739266016
+Consultant_17,"Software Development, Cloud Computing, Business Analysis, DevOps, NLP",Spanish,Technology,9,+213643374982
+Consultant_18,"Data Engineering, Deep Learning, Computer Vision, Software Development",German,Healthcare,8,+213564424255
+Consultant_19,"Computer Vision, Cloud Computing, Data Engineering, Project Management",Spanish,Education,7,+213511288261
+Consultant_20,"Software Development, DevOps, Big Data, Blockchain, Business Analysis","French, German, Arabic",Finance,3,+213645378479
+Consultant_21,"Big Data, Computer Vision","English, Arabic, Spanish",Retail,6,+213739152297
+Consultant_22,"Deep Learning, Data Engineering, Big Data","German, Arabic","Healthcare, Technology",4,+213517994599
+Consultant_23,"Software Development, Big Data, Cloud Computing","Spanish, French",Manufacturing,7,+213624494383
+Consultant_24,"Business Analysis, Cloud Computing, Deep Learning",Arabic,Retail,10,+213637127336
+Consultant_25,"Data Analysis, Blockchain, Data Engineering","German, French, Spanish",Manufacturing,9,+213589204895
+Consultant_26,"Big Data, Project Management, Software Development, Cybersecurity, Data Analysis","Arabic, German, Spanish","Healthcare, Retail",8,+213640722924
+Consultant_27,"NLP, Computer Vision, Project Management, Cybersecurity",German,Healthcare,6,+213725663171
+Consultant_28,"Blockchain, Software Development",German,"Technology, Finance",3,+213725353752
+Consultant_29,"Cloud Computing, Data Engineering","German, Spanish, English",Healthcare,10,+213634177793
+Consultant_30,"Data Analysis, DevOps, Cloud Computing, Computer Vision","French, Spanish, Arabic",Manufacturing,3,+213787497956
+Consultant_31,"Data Analysis, Cybersecurity, Deep Learning","Spanish, French",Education,4,+213635746027
+Consultant_32,"Machine Learning, Blockchain, Data Engineering, Data Analysis, Big Data",German,Manufacturing,7,+213788196150
+Consultant_33,"Data Analysis, Cloud Computing",Arabic,Retail,2,+213535609138
+Consultant_34,"Project Management, NLP, Big Data, Machine Learning, Business Analysis","French, Arabic, Spanish","Technology, Manufacturing",6,+213563689573
+Consultant_35,"Machine Learning, Deep Learning, Cybersecurity",Arabic,"Retail, Technology",2,+213720331799
+Consultant_36,"Business Analysis, DevOps, Deep Learning, Cybersecurity","Spanish, French, German","Healthcare, Manufacturing",2,+213788347662
+Consultant_37,"Software Development, Business Analysis",German,Education,7,+213765629419
+Consultant_38,"Cloud Computing, Data Analysis, Data Engineering, Big Data, NLP",German,"Retail, Education",6,+213688205697
+Consultant_39,"Data Engineering, Business Analysis, Data Analysis","German, Arabic, Spanish",Retail,4,+213620624245
+Consultant_40,"Blockchain, Deep Learning, Cloud Computing, Computer Vision","French, Spanish","Finance, Technology",10,+213780263064
+Consultant_41,"Cybersecurity, Deep Learning, Big Data, Machine Learning",French,"Technology, Manufacturing",5,+213661876766
+Consultant_42,"Deep Learning, Cloud Computing, Business Analysis","Spanish, German, French","Finance, Education",4,+213774249170
+Consultant_43,"Project Management, Software Development, Data Engineering, Computer Vision, Deep Learning",French,Retail,7,+213720255084
+Consultant_44,"DevOps, Data Analysis","Spanish, Arabic, English","Manufacturing, Healthcare",9,+213793612138
+Consultant_45,"Cybersecurity, Business Analysis, Blockchain",Arabic,Retail,5,+213660242694
+Consultant_46,"Computer Vision, Software Development, DevOps","German, Spanish","Finance, Healthcare",10,+213552888846
+Consultant_47,"Project Management, Blockchain, Big Data","English, French, Arabic",Manufacturing,9,+213723304871
+Consultant_48,"Computer Vision, Business Analysis","French, Spanish, Arabic",Education,8,+213613604379
+Consultant_49,"NLP, Project Management, Software Development","German, Spanish","Healthcare, Retail",6,+213695252083
+Consultant_50,"Cloud Computing, Data Analysis, Blockchain, Machine Learning",Arabic,"Finance, Healthcare",4,+213519258044
+Consultant_51,"Data Engineering, Software Development, Cybersecurity","Spanish, Arabic, English",Manufacturing,7,+213559665156
+Consultant_52,"Business Analysis, Deep Learning","German, English, Spanish","Education, Retail",5,+213518891629
+Consultant_53,"Computer Vision, Big Data, NLP, Blockchain, DevOps",Arabic,Technology,10,+213722701961
+Consultant_54,"Project Management, Blockchain",French,Education,10,+213511929554
+Consultant_55,"Deep Learning, Machine Learning","French, Arabic, German",Finance,9,+213692891771
+Consultant_56,"NLP, Cloud Computing, Blockchain, Cybersecurity, Data Engineering","German, Spanish",Healthcare,5,+213566226462
+Consultant_57,"Software Development, Machine Learning, Blockchain",German,"Technology, Retail",4,+213520369452
+Consultant_58,"Blockchain, Cybersecurity, Project Management, Data Engineering",German,Education,8,+213588749250
+Consultant_59,"Deep Learning, Cloud Computing",German,"Healthcare, Retail",4,+213666936545
+Consultant_60,"Cloud Computing, Big Data, DevOps, Business Analysis, Data Engineering","Spanish, German",Manufacturing,6,+213716193153
+Consultant_61,"Big Data, Project Management","English, Spanish",Healthcare,10,+213799841697
+Consultant_62,"Cybersecurity, Data Analysis, Deep Learning, Blockchain, Software Development",Arabic,"Finance, Retail",2,+213732246591
+Consultant_63,"Big Data, Software Development","German, French, Arabic","Manufacturing, Healthcare",7,+213755816347
+Consultant_64,"Business Analysis, Cloud Computing, NLP","Spanish, French","Manufacturing, Education",9,+213776214397
+Consultant_65,"Project Management, Data Analysis, Business Analysis, Computer Vision","German, English, Arabic","Healthcare, Retail",4,+213660352481
+Consultant_66,"DevOps, Big Data, Machine Learning, Deep Learning, Blockchain","Arabic, French",Retail,9,+213644563495
+Consultant_67,"Software Development, Big Data, Blockchain","English, Spanish","Retail, Manufacturing",3,+213630922736
+Consultant_68,"Business Analysis, Computer Vision, NLP, Machine Learning, Data Engineering","German, Spanish, English",Technology,8,+213793445259
+Consultant_69,"NLP, Project Management, Data Engineering, Big Data","French, Arabic, English",Finance,2,+213732949764
+Consultant_70,"NLP, Project Management, Data Engineering","Arabic, English",Education,2,+213598923332
+Consultant_71,"Machine Learning, Software Development, Computer Vision, Cloud Computing, Project Management",Spanish,"Finance, Healthcare",10,+213690625969
+Consultant_72,"Blockchain, Big Data, Cybersecurity, Software Development, Deep Learning","English, French","Technology, Retail",5,+213748999234
+Consultant_73,"Big Data, DevOps, Project Management, Data Engineering","English, Spanish","Healthcare, Manufacturing",4,+213727341689
+Consultant_74,"Cybersecurity, Computer Vision, Cloud Computing, Big Data","German, French, Arabic","Healthcare, Technology",3,+213570737338
+Consultant_75,"Software Development, Machine Learning, Computer Vision, Big Data, Cybersecurity","French, English",Technology,8,+213596977616
+Consultant_76,"Computer Vision, Business Analysis, Data Engineering, Cybersecurity, Deep Learning",Spanish,"Retail, Manufacturing",5,+213526219135
+Consultant_77,"Cybersecurity, NLP","Spanish, German",Healthcare,10,+213624448270
+Consultant_78,"NLP, DevOps, Machine Learning, Data Analysis, Software Development","German, English",Finance,4,+213559474278
+Consultant_79,"Data Analysis, Data Engineering, Computer Vision, Business Analysis, Project Management",English,"Manufacturing, Technology",6,+213671194672
+Consultant_80,"DevOps, Business Analysis, Cloud Computing, Blockchain, Data Analysis","Spanish, French, Arabic",Finance,9,+213660614131
+Consultant_81,"Software Development, Business Analysis","French, English","Retail, Healthcare",3,+213562615855
+Consultant_82,"Computer Vision, Cybersecurity, Project Management, Blockchain, Big Data","Arabic, English, French",Retail,5,+213715225577
+Consultant_83,"Data Analysis, NLP, Blockchain, Data Engineering",Arabic,"Retail, Technology",7,+213714892736
+Consultant_84,"Machine Learning, Cybersecurity","French, English, Arabic","Retail, Manufacturing",9,+213642283814
+Consultant_85,"Data Analysis, Deep Learning, DevOps","French, German, Spanish","Education, Technology",6,+213531287650
+Consultant_86,"Data Engineering, Software Development","French, Arabic, English",Healthcare,6,+213672503447
+Consultant_87,"Data Engineering, Deep Learning","Spanish, German, English","Education, Healthcare",6,+213615672360
+Consultant_88,"Data Engineering, Deep Learning, Cloud Computing","English, German","Retail, Healthcare",5,+213562646984
+Consultant_89,"DevOps, Machine Learning, Cybersecurity, Project Management",Spanish,"Education, Technology",10,+213717768935
+Consultant_90,"Big Data, NLP, Business Analysis, Project Management, Deep Learning","German, French",Technology,6,+213720734083
+Consultant_91,"NLP, Blockchain, Cloud Computing, DevOps, Data Analysis","German, English",Manufacturing,10,+213742401554
+Consultant_92,"Project Management, Machine Learning, Business Analysis, Data Analysis, DevOps",Arabic,Education,2,+213578143070
+Consultant_93,"Machine Learning, Cybersecurity, Data Analysis, Deep Learning","German, Arabic",Retail,3,+213510384861
+Consultant_94,"Cybersecurity, Big Data, Machine Learning","Arabic, English","Healthcare, Finance",4,+213691266143
+Consultant_95,"Business Analysis, Data Engineering, Computer Vision, Cloud Computing",German,"Manufacturing, Healthcare",9,+213553272211
+Consultant_96,"Data Analysis, Blockchain","English, German, French","Education, Technology",4,+213688673618
+Consultant_97,"NLP, Blockchain",Arabic,"Education, Finance",4,+213513821973
+Consultant_98,"Data Analysis, Cloud Computing",Arabic,Healthcare,10,+213649272640
+Consultant_99,"Blockchain, Cloud Computing, Machine Learning, Deep Learning","Arabic, German","Retail, Education",7,+213571856756
+Consultant_100,"DevOps, Deep Learning, Project Management, Business Analysis",French,Manufacturing,6,+213756333977
